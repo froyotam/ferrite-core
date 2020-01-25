@@ -1,5 +1,5 @@
 # ferrite-core
-Ferrite Core DX display typeface by Froyo Tam,
+Ferrite Core DX font family by Froyo Tam,
 Licensed under SIL Open Font License v1.1
 
 ![Image](https://raw.githubusercontent.com/froyotam/ferrite-core/master/documentation/ferritecoreheader.png)
