@@ -1,6 +1,4 @@
-      
-Copyright (c) 2019, Froyo Tam (froyotam.info|froyotam@gmail.com>),
-with Ferrite Core DX.
+Copyright (c) 2019, Froyo Tam (froyotam.info|froyotam@gmail.com>)
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
